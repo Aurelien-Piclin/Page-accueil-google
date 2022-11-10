@@ -1,0 +1,1 @@
+Accueil Google (26/10/2022) : Objectif était de refaire la page de google en utilisant uniquement du CSS.

@@ -1,0 +1,192 @@
+body {
+    background-color: #202124;
+    width:1440px;
+    height:691px;
+    border: 1px solid white;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color:#CACCCF;
+}
+
+#gmail {
+    position:absolute;
+    top: 20px;
+    left: 1110px;
+    font-size:15px;
+}
+
+#image {
+    position:absolute;
+    top: 20px;
+    left: 1210px;
+    font-size:15px;
+}
+
+#dots {
+    position:absolute;
+    top: 20px;
+    left: 1310px;
+}
+
+#profil {
+    position:absolute;
+    top: 20px;
+    left: 1380px;
+}
+
+#logo {
+    position:absolute;
+    top: 120px;
+    left: 575px;
+}
+
+.barreRecherche {
+    position: absolute;
+    width: 500px;
+    height: 32px;
+    top:270px;
+    left:475px;
+    border: 1px solid #93989D;
+    border-radius: 25px;
+}
+
+#loupe {
+    position:absolute;
+    top: 4px;
+    left:18px;
+}
+
+.input {
+        width:360px;
+        height: 25px;
+        position:absolute;
+        top: 0px;
+        left:50px;
+        background-color:#202124;
+        border: none;
+}
+
+#micro {
+    position:absolute;
+    top: 4px;
+    left:430px;
+
+}
+
+#photo {
+    position:absolute;
+    top: 4px;
+    left: 460px;
+}
+
+
+#gs {
+    border: 1px solid #93989D;
+    display:inline;
+    position: absolute;
+    top:310px;
+    left:615px;
+    padding:3px;
+}
+
+
+#lucky {
+    border: 1px solid #93989D;
+    display:inline;
+    position: absolute;
+    top:310px;
+    left:735px;
+    padding:3px; 
+}
+
+
+#offered {
+    color:#AAADB1;
+    position:absolute;
+    top: 370px;
+    left: 650px;
+    font-size: 14px;;
+}
+
+em {
+    color: #799CD5;
+    font-style: normal;
+}
+
+footer {
+    background-color: #171717;
+    color:#93989D;
+    position:absolute;
+    height: 100px;
+    width: 1440px;
+    top: 600px;
+    font-size: 14px;
+}
+
+#fr {
+    position:absolute;
+    left: 30px;
+    font-size:17px;
+    
+}
+
+#ligne {
+    position:absolute;
+    width:1440px;
+    top: 50px;
+}
+
+#ab {
+    position:absolute;
+    top: 55px;
+    left: 30px;
+}
+
+#ad {
+    position:absolute;
+    top: 55px;
+    left: 90px;
+}
+
+#bu {
+    position:absolute;
+    top: 55px;
+    left: 190px;
+}
+
+#ho {
+    position:absolute;
+    top: 55px;
+    left: 280px;
+}
+
+#re {
+    position:absolute;
+    top: 55px;
+    left: 840px;
+}
+#co {
+    position:absolute;
+    top: 55px;
+    left: 1040px;
+}
+
+#pr {
+    position:absolute;
+    top: 55px;
+    left: 1205px;
+}
+
+#te {
+    position:absolute;
+    top: 55px;
+    left: 1275px;
+}
+
+#se {
+    position:absolute;
+    top: 55px;
+    left: 1340px;
+}
